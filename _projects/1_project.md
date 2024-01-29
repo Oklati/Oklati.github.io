@@ -1,25 +1,15 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: MA FIRST PROJECT
+description: SOMETHING TO BEGIN WITH
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This project is used to just showcase ma bleeding technology camera i bought.
+just look at how many images i got!!!!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -33,7 +23,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    WOW. IMAGES MORE IMAGES
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -41,7 +31,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    IS THAT WATER DRINKABLE?
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
