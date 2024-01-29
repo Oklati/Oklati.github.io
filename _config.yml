@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title:  # the website title (if blank, full name will be used instead)
-first_name: Habib
-middle_name: Mohammadhossein
-last_name: Panbechi
+first_name: AP
+middle_name: 
+last_name: Jones
 email: mohammadhosseinpanbechi8908@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, BLACKspace theme for ma brothers from ma other mothers.
@@ -72,7 +72,7 @@ gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
-telegram_username: Oklati # your Telegram user name
+telegram_username: oklati # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
@@ -98,13 +98,13 @@ pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
-youtube_id: youtube.com/@jakoolaboo # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: jakoolaboo # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  You can access me the best by trying to talk me IRL!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: A simple, BLACKspace theme for ma brothers from ma other mothers.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -169,7 +169,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: false
+    output: true
     permalink: /news/:path/
   projects:
     output: true
@@ -181,7 +181,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -283,7 +283,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
+  last_name: [AP]
   first_name: [Albert, A.]
 
   style: apa
