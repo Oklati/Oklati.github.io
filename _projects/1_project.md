@@ -2,7 +2,7 @@
 layout: page
 title: MA FIRST PROJECT
 description: SOMETHING TO BEGIN WITH
-img: assets/img/12.jpg
+img: assets/img/camera.jpg
 importance: 1
 category: work
 related_publications: true
